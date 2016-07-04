@@ -4,7 +4,10 @@ Learning GitHub
 
 Hi!!
 This is Monika Aherwar.
-Getting familiar with GitHub.
+
+A line is deleted from above - Getting familiar with GitHub.
 
 NewBranch-edits!!
 New Changes Made!!
+
+This line is added.
